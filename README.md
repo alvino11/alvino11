@@ -2,7 +2,7 @@
 
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
-  <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
+  <!--  For an ampersand (&), use & (e.g., Analytics+%26+Optimization) -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=530&height=50&lines=Data+Analyst+%7C+Computer+Scientist;Pharmacist+with+an+M.S.+in+CS;Specialty%3A+Health+%26+Financial+Analytics;Extracting+Value+from+Health+%26+Fiscal+Data" alt="Typing SVG" />
 </div>
 
@@ -26,7 +26,7 @@ When I'm not untangling data, I'm deep-diving into the latest tech trends, explo
 ## 🔭 What I'm Currently Working On 
 
 - **Olist E-Commerce Analytics Dashboard:** Developing a dynamic Excel KPI dashboard and data model analyzing multi-million dollar sales, logistics performance, and consumer payment preferences.
-- **Global Healthcare Impact Analysis (SQL):** Constructing advanced relational queries—utilizing Window functions, CTEs, and deep joins on Kaggle epidemiology datasets—to engineer data pipelines tracking rolling metrics and transmission trends.
+- **Global Healthcare Impact Analysis (SQL):** Constructing advanced relational queries, utilizing Window functions, CTEs, and deep joins on Kaggle epidemiology datasets, to engineer data pipelines tracking rolling metrics and transmission trends.
 - **Enterprise Talent Retention Dashboard (Power BI):** Developing an end-to-end business intelligence solution using Kaggle HR infrastructure data, featuring DAX-driven measures and interactive data models to track workforce optimization and predictive turnover metrics.
 
 ## 🌱 Currently Learning 
@@ -60,3 +60,26 @@ When I'm not untangling data, I'm deep-diving into the latest tech trends, explo
   <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
   <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
 </p>
+
+## 🗂️ Portfolio Repository Structure
+
+My [data analyst portfolio repo](https://github.com/your-username/your-repo) is organized as follows:
+
+```
+your-repo/
+├── excel-olist-ecommerce/
+│   ├── data/
+│   ├── workbook.xlsx
+│   └── README.md
+├── sql-global-healthcare/
+│   ├── queries/
+│   ├── schema.sql
+│   └── README.md
+├── powerbi-talent-retention/
+│   ├── dashboard.pbix
+│   ├── data/
+│   └── README.md
+├── assets/
+│   └── screenshots/
+└── README.md
+```
