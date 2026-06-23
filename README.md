@@ -67,6 +67,11 @@ My [data analyst portfolio repo](https://github.com/your-username/your-repo) is 
 
 ```
 your-repo/
+├── index.html
+├── assets/
+│   ├── style.css
+│   ├── script.js
+│   └── screenshots/
 ├── excel-olist-ecommerce/
 │   ├── data/
 │   ├── workbook.xlsx
@@ -79,7 +84,5 @@ your-repo/
 │   ├── dashboard.pbix
 │   ├── data/
 │   └── README.md
-├── assets/
-│   └── screenshots/
 └── README.md
 ```
