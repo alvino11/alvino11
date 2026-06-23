@@ -21,7 +21,7 @@ My focus is on building dashboards that teams actually rely on, automating repet
 When I'm not untangling data, I'm deep-diving into the latest tech trends, exploring advanced networking environments, or teaching myself new IT skills. I love the "aha!" moment when data and technology converge to reveal a clear path forward.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
+### [🏆 Check Out My Full Portfolio Website](https://alvino11.github.io)
       
 ## 🔭 What I'm Currently Working On 
 
@@ -63,10 +63,10 @@ When I'm not untangling data, I'm deep-diving into the latest tech trends, explo
 
 ## 🗂️ Portfolio Repository Structure
 
-My [data analyst portfolio repo](https://github.com/your-username/your-repo) is organized as follows:
+My [data analyst portfolio repo](https://github.com/alvino11/alvino11.github.io) is organized as follows:
 
 ```
-your-repo/
+alvino11.github.io/
 ├── index.html
 ├── assets/
 │   ├── style.css
